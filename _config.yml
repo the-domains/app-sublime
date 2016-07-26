@@ -1,0 +1,14 @@
+layout_spectrum: 0.8936295378953218
+typography_spectrum: 0.10981207992881536
+color:
+  brandStrength: 0.9803608718793839
+  lightness: 0.6808351362124085
+  saturation: 0.6690365721005946
+  rhythmicContrast: 0.646879801293835
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: App Sublime
